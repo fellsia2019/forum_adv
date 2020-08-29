@@ -1920,11 +1920,11 @@ webkit-scrollbar {
 }
 #page_advancedthemes .content__theme:after{
     content: "";
-    width: 200vw;
+    width: 1000vw;
     height: 18px;
-    /* background:#ccc ; */
+    /* background: #ccc; */
     position: absolute;
-    left: -100px;
+    left: -100vw;
     bottom: -30px;
     /* background: -webkit-gradient(linear,left top,left bottom,from(rgba(0,0,0,.09)),to(transparent));
     background: -webkit-linear-gradient(top,rgba(0,0,0,.09),transparent); */
